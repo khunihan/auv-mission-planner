@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+
+    background-image: url(/static/waves.png);
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #a0d8ef;
+}
+
+form input {
+    margin-bottom: 10px;
+}
